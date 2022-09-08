@@ -1,0 +1,14 @@
+
+#svg {
+	background-image: url("../CSS/svgbackgrounds/Colorful-Stingrays.svg");
+	text-align: center;
+}
+.bgw {
+	background-color: white;
+}
+.nav-link {
+	color:black;
+}
+.btn-info {
+	border-color:white;
+} 
